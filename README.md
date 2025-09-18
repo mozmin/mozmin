@@ -1,5 +1,5 @@
 ![DSC04593-Enhanced-NR](https://github.com/user-attachments/assets/446bd729-11fc-4d82-8dd0-a910586d4fb0)
-<img src="https://github.com/user-attachments/assets/446bd729-11fc-4d82-8dd0-a910586d4fb0" height="300" alt="DSC04593-Enhanced-NR">
+<img src="https://github.com/user-attachments/assets/446bd729-11fc-4d82-8dd0-a910586d4fb0" height="100" alt="DSC04593-Enhanced-NR">
 
 # Hello, world! I'm Mo
 
