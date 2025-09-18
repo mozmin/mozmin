@@ -8,7 +8,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff)](mailto:jmmo0722@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/%EC%A0%95%EB%AF%BC-%EB%AA%A8-289504385/)
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=mozmin&theme=kakao)](https://github.com/loosie/github-readme-tistory-card)
+[![tistory](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://mozmin.tistory.com)
 
 <br>
 
