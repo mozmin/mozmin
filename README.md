@@ -7,6 +7,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff)](mailto:jmmo0722@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/%EC%A0%95%EB%AF%BC-%EB%AA%A8-289504385/)
 [![blog](https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=fff)](https://mozmin.tistory.com/)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v1/generate_badge?boj=jmmo0722)](https://solved.ac/jmmo0722)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v3/generate_badge?boj=jmmo0722)](https://solved.ac/jmmo0722)
 
 ---
