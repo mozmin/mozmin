@@ -7,7 +7,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff)](mailto:jmmo0722@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/%EC%A0%95%EB%AF%BC-%EB%AA%A8-289504385/)
 [![blog](https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=fff)](https://mozmin.tistory.com/)
-[![solved.ac Profile](https://img.shields.io/badge/solved.ac-Profile-1F8ACB)](https://solved.ac/profile/jmmo0722)
-
+[![solved.ac tier](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=YOUR_BOJ_ID)](https://solved.ac/profile/jmmo0722)
 
 ---
