@@ -7,8 +7,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff)](mailto:jmmo0722@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/%EC%A0%95%EB%AF%BC-%EB%AA%A8-289504385/)
 [![blog](https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=fff)](https://mozmin.tistory.com/)
-[![Hits](https://komarev.com/ghpvc/?username=mozmin)
-![solved.ac](https://img.shields.io/badge/solved.ac-Silver%20I-435F7A?style=for-the-badge&logo=solved.ac)]
+![Hits](https://komarev.com/ghpvc/?username=mozmin)
+![solved.ac](https://img.shields.io/badge/solved.ac-Silver%20I-435F7A?style=for-the-badge&logo=solved.ac)
 ![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=mozmin)
 
 ---
