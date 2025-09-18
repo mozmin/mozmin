@@ -12,8 +12,11 @@
 
 
 ### Contact
-* **LinkedIn:** [링크드인 프로필 링크]
-* **Email:** [jmmo0722@gmail.com]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff)](mailto:jmmo0722@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/%EC%A0%95%EB%AF%BC-%EB%AA%A8-289504385/)
+[![blog](https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=fff)](https://mozmin.tistory.com/)
+[![Solved.ac](https://img.shields.io/badge/solved.ac-Profile-1F8ACB?logo=readme&logoColor=fff)](https://solved.ac/profile/jmmo0722)
+
 
 ---
 
