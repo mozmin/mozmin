@@ -2,7 +2,7 @@
 
 # Hi! I'm mo! 
 
----
+
 **Contact**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&logo=gmail&logoColor=white)](mailto:jmmo0722@gmail.com)
