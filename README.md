@@ -2,6 +2,7 @@
   <img src="https://github.com/user-attachments/assets/530a8f23-937b-4d71-864c-aaa55a3b7bc1" alt="대표 사진">
   <br/>
 ---
+![깃허브 readme 사진](https://github.com/user-attachments/assets/8ce3c504-f4c8-4e33-9557-14b158436047)
 
 ### Hello World!!
 
