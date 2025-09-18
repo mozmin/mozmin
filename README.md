@@ -10,5 +10,6 @@
 ![Hits](https://komarev.com/ghpvc/?username=mozmin)
 ![solved.ac](https://img.shields.io/badge/solved.ac-Silver%20I-435F7A?style=plastic&logo=solved.ac)
 ![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=mozmin)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mozmin" alt="Solved.ac 뱃지" height="40">
 
 ---
