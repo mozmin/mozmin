@@ -10,6 +10,6 @@
 
 ![Hits](https://komarev.com/ghpvc/?username=mozmin) 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jmmo0722)](https://solved.ac/jmmo0722)
-![solved.ac](https://img.shields.io/badge/SOLVED.AC-SILVER%20I-435F7A??style=for-the-badge&Color=white)
+
 
 
