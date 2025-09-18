@@ -2,9 +2,7 @@
 
 ---
 
-# Hi! I'm mo!
-![Hits](https://komarev.com/ghpvc/?username=mozmin)
-![solved.ac](https://img.shields.io/badge/SOLVED.AC-SILVER%20I-435F7A??style=for-the-badge&Color=white)
+# Hi! I'm mo! ![Hits](https://komarev.com/ghpvc/?username=mozmin) ![solved.ac](https://img.shields.io/badge/SOLVED.AC-SILVER%20I-435F7A??style=for-the-badge&Color=white)
 ---
 
 ### Contact
