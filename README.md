@@ -1,4 +1,4 @@
-![깃허브 readme 사진](https://github.com/user-attachments/assets/8ce3c504-f4c8-4e33-9557-14b158436047)
+![hongkong readme](https://github.com/user-attachments/assets/030d7b95-beef-4bb0-bdf2-52268c56f440)
 
 ### Hello World!!
 
