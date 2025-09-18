@@ -4,7 +4,7 @@
 
 # Hi! I'm mo! 
 
-## Contact
+**Contact**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&logo=gmail&logoColor=white)](mailto:jmmo0722@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/%EC%A0%95%EB%AF%BC-%EB%AA%A8-289504385/)
