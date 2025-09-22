@@ -5,7 +5,7 @@
 # Hello World! I'm Mo
 
 ### mo's latest posts
-<ul><li><a href='https://mozmin.tistory.com/1' target='_blank'>2025 KB It's Your Life 해커톤 회고</a></li></ul>
+<div><a href='https://mozmin.tistory.com/1' target='_blank'>2025 KB It's Your Life 해커톤 회고</a></div>
 
 ## Contact
 
