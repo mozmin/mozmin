@@ -10,7 +10,7 @@ let text = `
 
 # Hello World! I'm Mo
 
-### mo's latest posts
+### Mo's latest posts
 <!-- FEED_PLACEHOLDER -->
 
 ## Contact
