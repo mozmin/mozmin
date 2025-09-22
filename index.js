@@ -37,12 +37,12 @@ const parser = new Parser({
 
     // 피드 HTML 생성
     let feedHtml = `<div>
-    Mo's latest posts`;
+    Mo's latest posts <br>`;
     const count = Math.min(10, feed.items.length);
     for (let i = 0; i < count; i++) {
       const { title, link } = feed.items[i];
       console.log(`${i + 1}번째 게시물 추가됨: ${title}`);
-      feedHtml += `<a href='${link}' target='_blank'>${title}</a>`;
+      feedHtml += `<a href='${link}' target='_blank'>${title}<br></a>`;
     }
     feedHtml += `</div>`;
 
