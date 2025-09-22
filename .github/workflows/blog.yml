@@ -1,0 +1,23 @@
+name: Update blog posts
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # 6시간마다
+  workflow_dispatch:        # 수동 실행도 가능
+  push:
+    branches: ["main"]      # 선택(초기 1회 실행용)
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: |
+            https://mozmin.tistory.com/  
+          max_post_count: 5
+          readme_path: README.md
+          # 선택 옵션
+          template: "- [$title]($url)  \n"
+          commit_message: "chore: update latest blog posts"
