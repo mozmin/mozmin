@@ -47,14 +47,14 @@ const parser = new Parser({
     const feed = await parser.parseURL('https://mozmin.tistory.com/rss');
 
     // 피드 HTML 생성
-    let feedHtml = `<ul>`;
+    let feedHtml = `<div>`;
     const count = Math.min(10, feed.items.length);
     for (let i = 0; i < count; i++) {
       const { title, link } = feed.items[i];
       console.log(`${i + 1}번째 게시물 추가됨: ${title}`);
-      feedHtml += `<li><a href='${link}' target='_blank'>${title}</a></li>`;
+      feedHtml += `<a href='${link}' target='_blank'>${title}</a>`;
     }
-    feedHtml += `</ul>`;
+    feedHtml += `</div>`;
 
     // 자리 표시자 교체
     text = text.replace('<!-- FEED_PLACEHOLDER -->', feedHtml);
