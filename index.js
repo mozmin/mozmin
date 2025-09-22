@@ -10,7 +10,6 @@ let text = `
 
 # Hello World! I'm Mo
 
-Mo's latest posts
 <!-- FEED_PLACEHOLDER -->
 
 ## Contact
@@ -37,7 +36,8 @@ const parser = new Parser({
     const feed = await parser.parseURL('https://mozmin.tistory.com/rss');
 
     // 피드 HTML 생성
-    let feedHtml = `<div>`;
+    let feedHtml = `<div>
+    Mo's latest posts`;
     const count = Math.min(10, feed.items.length);
     for (let i = 0; i < count; i++) {
       const { title, link } = feed.items[i];
