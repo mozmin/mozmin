@@ -1,7 +1,9 @@
 ![DSC00446-Enhanced-NR](https://github.com/user-attachments/assets/67a50e7c-6db2-4f1a-902b-03efbc250579)
 
 # Hello, world! I'm Mo
-
+### mo's latest posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Contact 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&logo=gmail&logoColor=white)](mailto:jmmo0722@gmail.com)
