@@ -1,12 +1,13 @@
-# Hello World! I'm Mo there
 
-## 🖼️ About Me
 
 <img alt="" src="https://github.com/user-attachments/assets/67a50e7c-6db2-4f1a-902b-03efbc250579" />
 
-## 📕 Latest Blog Posts
+# Hello World! I'm Mo
 
-## 📬 Contact
+## Latest Blog Posts
+<ul><li><a href='https://mozmin.tistory.com/1' target='_blank'>2025 KB It's Your Life 해커톤 회고</a></li></ul>
+
+## Contact
 
 <p>
   <a href="mailto:jmmo0722@gmail.com">
@@ -26,5 +27,3 @@
     <img alt="BOJ Badge" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jmmo0722"/>
   </a>
 </p>
-
-<ul><li><a href='https://mozmin.tistory.com/1' target='_blank'>2025 KB It's Your Life 해커톤 회고</a></li></ul>
