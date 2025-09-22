@@ -15,7 +15,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: |
-            https://mozmin.tistory.com/  
+            https://mozmin.tistory.com/rss 
           max_post_count: 5
           readme_path: README.md
           # 선택 옵션
