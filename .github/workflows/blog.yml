@@ -1,30 +1,24 @@
-# .github/workflows/blog-posts.yml
-
 name: Update blog posts
 
 on:
   schedule:
-    # 12시간마다 실행
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */6 * * *"   # 6시간마다 실행
+  workflow_dispatch:        # 수동 실행 버튼
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write   # README 수정 권한
 
 jobs:
   update-readme-with-blog:
-    name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Update README
-        uses: feed-flow/feed-flow@v2
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # RSS 피드 URL
-          feed-url: "https://mozmin.tistory.com/rss"
-          # 업데이트할 파일 경로
-          output-path: "README.md"
-          # 가져올 게시물 수
-          max-post-count: 5
-          # README.md 파일에서 와 사이를 자동으로 업데이트
-          # 아래와 같이 README.md 파일에 미리 작성해두어야 합니다.
-          template: |
-            - [$title]($url)
+          feed_list: "https://mozmin.tistory.com/rss"   # 👉 내 티스토리 RSS 주소
+          max_post_count: 5
+          readme_path: README.md
+          template: "- [$title]($url)  \n"
+          commit_message: "chore: update latest blog posts"
