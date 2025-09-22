@@ -2,18 +2,18 @@ import { writeFileSync } from 'node:fs';
 import Parser from 'rss-parser';
 
 /**
- * README.md에 작성될 페이지 텍스트
- * @type {string}
+ * README.md에 작성될 텍스트 (자리 표시자 포함)
  */
-let text = `# Hello World! I'm Mo there
-
-## 🖼️ About Me
+let text = `
 
 <img alt="" src="https://github.com/user-attachments/assets/67a50e7c-6db2-4f1a-902b-03efbc250579" />
 
-## 📕 Latest Blog Posts
+# Hello World! I'm Mo
 
-## 📬 Contact
+## Latest Blog Posts
+<!-- FEED_PLACEHOLDER -->
+
+## Contact
 
 <p>
   <a href="mailto:jmmo0722@gmail.com">
@@ -33,10 +33,8 @@ let text = `# Hello World! I'm Mo there
     <img alt="BOJ Badge" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jmmo0722"/>
   </a>
 </p>
-
 `;
 
-// rss-parser 생성
 const parser = new Parser({
   headers: {
     Accept: 'application/rss+xml, application/xml, text/xml; q=0.1',
@@ -45,22 +43,23 @@ const parser = new Parser({
 
 (async () => {
   try {
-    // 피드 가져오기
-    const feed = await parser.parseURL('https://mozmin.tistory.com/rss'); // 본인 티스토리 RSS 주소
+    // RSS 피드 가져오기
+    const feed = await parser.parseURL('https://mozmin.tistory.com/rss');
 
-    text += `<ul>`;
-
-    // 최신 10개의 글의 제목과 링크 추가
+    // 피드 HTML 생성
+    let feedHtml = `<ul>`;
     const count = Math.min(10, feed.items.length);
     for (let i = 0; i < count; i++) {
       const { title, link } = feed.items[i];
       console.log(`${i + 1}번째 게시물 추가됨: ${title}`);
-      text += `<li><a href='${link}' target='_blank'>${title}</a></li>`;
+      feedHtml += `<li><a href='${link}' target='_blank'>${title}</a></li>`;
     }
+    feedHtml += `</ul>`;
 
-    text += `</ul>`;
+    // 자리 표시자 교체
+    text = text.replace('<!-- FEED_PLACEHOLDER -->', feedHtml);
 
-    // README.md 파일 생성
+    // README.md 파일 생성/덮어쓰기
     writeFileSync('README.md', text, 'utf8');
     console.log('README.md 업데이트 완료');
   } catch (e) {
