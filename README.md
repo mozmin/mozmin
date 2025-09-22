@@ -2,16 +2,10 @@
 
 # Hello, world! I'm Mo
 ### mo's latest posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## Contact 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&logo=gmail&logoColor=white)](mailto:jmmo0722@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/%EC%A0%95%EB%AF%BC-%EB%AA%A8-289504385/)
 [![tistory](https://img.shields.io/badge/tistory-E34F26.svg?&logo=tistory&logoColor=white)](https://mozmin.tistory.com)
 
 ![Hits](https://komarev.com/ghpvc/?username=mozmin) 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jmmo0722)](https://solved.ac/jmmo0722)
-
-
-
+[![Solved.ac프로필](http.mazassumnida.wtf/api/mini/generate_badge?boj=jmmo0722)](https://solved.ac/jmmo0722)
