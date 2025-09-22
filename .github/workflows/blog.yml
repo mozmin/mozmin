@@ -2,23 +2,20 @@ name: Update blog posts
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # 6시간마다 실행
+    - cron: "0 */6 * * *"   # 6시간마다 실행
   workflow_dispatch:        # 수동 실행 버튼
-  push:
-    branches: ["main"]
 
 permissions:
-  contents: write   # README 수정 권한
+  contents: write
 
 jobs:
-  update-readme-with-blog:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Update README with Tistory posts
+        uses: zwaldowski/readme-rss@v1
         with:
-          feed_list: "https://mozmin.tistory.com/rss"   # 👉 내 티스토리 RSS 주소
-          max_post_count: 5
-          readme_path: README.md
-          template: "- [$title]($url)  \n"
-          commit_message: "chore: update latest blog posts"
+          feed-url: "https://mozmin.tistory.com/rss"   # 내 티스토리 RSS 주소
+          readme-path: "README.md"
+          max: 5
