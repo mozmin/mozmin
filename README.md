@@ -9,7 +9,7 @@
 
 ## Contact
 
-[![jmmo0722@naver.com](https://img.shields.io/badge/jmmo0722@naver.com-009639.svg?&logo=&logoColor=white)](mailto:jmmo0722@naver.com)
+[![jmmo0722@naver.com](https://img.shields.io/badge/jmmo0722@naver.com-009639.svg?&logo=maildotru&logoColor=white)](mailto:jmmo0722@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mozmin/)
 [![tistory](https://img.shields.io/badge/tistory-E34F26.svg?&logo=tistory&logoColor=white)](https://mozmin.tistory.com)
 
