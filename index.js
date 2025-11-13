@@ -12,7 +12,7 @@ let text = `
 
 <!-- FEED_PLACEHOLDER -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/JPA-4D4D4D?style=for-the-badge&logoColor=white">
 <br>
