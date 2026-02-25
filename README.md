@@ -5,7 +5,7 @@
 # Hello World! I'm Mo
 
 <div>
-    Mo's latest posts <br><a href='https://mozmin.tistory.com/6' target='_blank'>[Refactoring] CODEF API 연동 구조 개선 및 성능 최적화<br></a><a href='https://mozmin.tistory.com/5' target='_blank'>우아한테크코스 - 프리코스 오픈미션 회고<br></a><a href='https://mozmin.tistory.com/4' target='_blank'>우아한테크코스 - 프리코스 3주차 회고<br></a><a href='https://mozmin.tistory.com/3' target='_blank'>우아한테크코스 - 프리코스 2주차 회고<br></a><a href='https://mozmin.tistory.com/2' target='_blank'>우아한테크코스 - 프리코스 1주차 회고<br></a><a href='https://mozmin.tistory.com/1' target='_blank'>2025 KB It's Your Life 해커톤 회고<br></a></div>
+    Mo's latest posts <br><a href='https://mozmin.tistory.com/7' target='_blank'>[Refactoring] CODEF API 연동 아키텍처 전면 개편 - DDD 관점으로<br></a><a href='https://mozmin.tistory.com/6' target='_blank'>[Refactoring] CODEF API 연동 구조 개선 및 성능 최적화<br></a><a href='https://mozmin.tistory.com/5' target='_blank'>우아한테크코스 - 프리코스 오픈미션 회고<br></a><a href='https://mozmin.tistory.com/4' target='_blank'>우아한테크코스 - 프리코스 3주차 회고<br></a><a href='https://mozmin.tistory.com/3' target='_blank'>우아한테크코스 - 프리코스 2주차 회고<br></a><a href='https://mozmin.tistory.com/2' target='_blank'>우아한테크코스 - 프리코스 1주차 회고<br></a><a href='https://mozmin.tistory.com/1' target='_blank'>2025 KB It's Your Life 해커톤 회고<br></a></div>
 
 ## Tech Stack
 
