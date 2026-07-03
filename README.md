@@ -5,7 +5,7 @@
 # Hello World! I'm Mo
 
 <div>
-    Mo's latest posts <br><a href='https://mozmin.tistory.com/10' target='_blank'>[Fix] 연관관계 편의 메서드 사용 시 컬렉션 중복 데이터 적재 이슈 해결<br></a><a href='https://mozmin.tistory.com/9' target='_blank'>[Feat] Map과 Functional Interface를 활용한 전략 패턴<br></a><a href='https://mozmin.tistory.com/8' target='_blank'>[Feat] Elasticsearch를 활용한 검색 시스템 구축 -1<br></a><a href='https://mozmin.tistory.com/7' target='_blank'>[Refactor] CODEF API 연동 아키텍처 전면 개편 - 헥사고날<br></a><a href='https://mozmin.tistory.com/6' target='_blank'>[Refactor] CODEF API 연동 구조 개선 및 성능 최적화<br></a></div>
+    Mo's latest posts <br><a href='https://mozmin.tistory.com/10' target='_blank'>[Fix] JPA 연관관계 편의 메서드 사용 시 컬렉션 중복 데이터 적재 이슈 해결<br></a><a href='https://mozmin.tistory.com/9' target='_blank'>[Feat] Map과 Functional Interface를 활용한 전략 패턴<br></a><a href='https://mozmin.tistory.com/8' target='_blank'>[Feat] Elasticsearch를 활용한 검색 시스템 구축 -1<br></a><a href='https://mozmin.tistory.com/7' target='_blank'>[Refactor] CODEF API 연동 아키텍처 전면 개편 - 헥사고날<br></a><a href='https://mozmin.tistory.com/6' target='_blank'>[Refactor] CODEF API 연동 구조 개선 및 성능 최적화<br></a></div>
 
 ## Tech Stack
 
